@@ -14,8 +14,9 @@ df <- raw_df %>%
     # Удалить уточнения в скобках
     ingredients = str_remove_all(ingredients, "\\([A-Za-z /&]*\\)"),
     # Заменить | на запятую
-    ingredients = str_replace_all(ingredients, " *\\|", ", ")) %>%
-  filter(!row_number() %in% c(170, 171, 177, 286, 447)) %>% 
-  select(recipe_title, ingredients, cuisine, course, diet, prep_time, cook_time, rating, vote_count)
+    ingredients = str_replace_all(ingredients, " *\\|", ", ")) %>% 
+  filter(!row_number() %in% c(170, 171, 177, 224, 286, 447)) %>% 
+  select(recipe_title, ingredients, cuisine, course, diet, prep_time, cook_time, rating, vote_count) %>% 
+  drop_na()
 
 write_tsv(df, "food_recipes/food_recipes.tsv")
