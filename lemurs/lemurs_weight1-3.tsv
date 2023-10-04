@@ -1,0 +1,52 @@
+name	species	sex	weight_1	weight_2	weight_3	birth_date	birth_type	death_date	litter_size
+Nosferatu	Aye-aye	M	2860	2505	2930	1985-12-18	wild	2018-07-30	NA
+Poe	Aye-aye	M	2700	2610	2680	1986-12-19	wild	NA	NA
+Samantha	Aye-aye	F	2242	2360	2415	1978-08-15	wild	1995-12-20	NA
+Annabel Lee	Aye-aye	F	944	1180	1689	1988-05-24	captive	1989-12-09	NA
+Mephistopheles	Aye-aye	M	2760	2520	2620	1981-10-08	wild	2014-02-12	NA
+Endora	Aye-aye	F	2600	2360	2645	1983-12-04	wild	NA	NA
+Ozma	Aye-aye	F	2500	2440	2620	1985-10-11	wild	NA	NA
+Morticia	Aye-aye	F	2700	2550	2255	1988-11-30	wild	2016-10-26	NA
+Blue Devil	Aye-aye	M	1330	1820	2460	1992-04-06	captive	1998-12-19	1
+Goblin	Aye-aye	M	1180	1460	1150	1992-10-23	captive	1998-02-05	1
+Samantha-A	Aye-aye	F	89.6	NA	NA	1992-12-13	captive	1992-12-14	1
+Cruella	Aye-aye	F	2050	1350	2340	1993-10-08	captive	1998-12-20	1
+Merlin	Aye-aye	M	2630	232	1270	1994-06-05	captive	2016-10-25	1
+Caliban	Aye-aye	F	2080	296.5	641	1994-08-25	captive	NA	1
+Ozma-A	Aye-aye	F	87	72.4	NA	1995-10-22	captive	1995-10-26	1
+Ardrey	Aye-aye	F	3000	2780	666	1996-04-15	captive	NA	1
+Kali	Aye-aye	F	2880	120	840	1998-01-06	captive	NA	1
+Usher (Marvin)	Aye-aye	M	2340	2260	2240	1998-02-08	captive	2008-11-13	1
+Warlock	Aye-aye	M	2500	300	107	1998-06-16	captive	NA	1
+Ardrey-A	Aye-aye	M	98	98	95	2000-12-15	captive	2000-12-20	1
+Tolkein	Aye-aye	M	2160	2180	2320	2001-01-07	captive	NA	1
+Lucrezia	Aye-aye	F	2560	213	3070	2001-07-30	captive	NA	1
+Salem	Aye-aye	F	283	2660	2300	2001-09-05	captive	NA	1
+Ozony Avelo	Aye-aye	M	900	660	1320	2001-10-25	captive	2015-01-19	1
+Sabrina	Aye-aye	F	2480	820	262	2003-09-26	captive	2016-03-29	1
+Medusa	Aye-aye	F	2460	570	2140	2003-10-14	captive	NA	1
+Medea	Aye-aye	F	2380	335	2180	2004-09-10	captive	NA	1
+Hitchcock	Aye-aye	M	2700	2460	NA	2005-02-22	captive	NA	1
+Angelique	Aye-aye	F	2920	2940	209	2005-09-05	captive	2016-10-26	1
+Claudia	Aye-aye	F	740	2550	2390	2005-12-30	captive	NA	1
+Bellatrix	Aye-aye	F	585	2760	2460	2007-08-21	captive	NA	1
+Niffy	Aye-aye	M	NA	NA	NA	2008-06-21	captive	NA	NA
+Ichabod	Aye-aye	M	2380	2820	1005	2008-07-23	captive	2016-05-11	1
+Salem-A	Aye-aye	M	NA	NA	NA	2008-10-12	captive	2008-10-12	NA
+Norman Bates	Aye-aye	M	1580	2530	681	2009-04-03	captive	2016-10-25	1
+Pan	Aye-aye	M	NA	NA	NA	2009-04-18	captive	NA	NA
+Tsara	Aye-aye	F	NA	NA	NA	2009-09-13	captive	2016-08-24	NA
+Grendel	Aye-aye	M	2920	2250	2860	2010-05-23	captive	NA	1
+Smeagol	Aye-aye	M	NA	NA	NA	2010-07-14	captive	NA	NA
+Styx	Aye-aye	F	2120	2280	2200	2010-09-01	captive	NA	1
+Imp	Aye-aye	M	NA	NA	NA	2010-11-29	captive	2014-10-03	NA
+Elphaba	Aye-aye	F	155	2540	2160	2011-11-29	captive	NA	1
+Vinny	Aye-aye	M	NA	NA	NA	2011-12-05	captive	NA	NA
+Loki	Aye-aye	M	NA	NA	NA	2012-07-05	captive	NA	NA
+Kambana	Aye-aye	F	NA	NA	NA	2015-05-17	captive	NA	NA
+Bellatrix-A	Aye-aye	F	NA	NA	NA	2016-05-07	captive	2016-05-07	NA
+Damien	Aye-aye	M	NA	NA	NA	2016-09-02	captive	NA	NA
+Bellatrix-B	Aye-aye	M	NA	NA	NA	2016-11-07	captive	2016-11-11	NA
+Bellatrix-C	Aye-aye	NA	NA	NA	NA	2017-05-13	captive	2017-05-13	NA
+Agatha	Aye-aye	F	1060	1860	2000	2017-06-07	captive	NA	1
+Tonk	Aye-aye	F	NA	NA	NA	2018-08-08	captive	NA	NA
